@@ -1,0 +1,5 @@
+int a=3;
+int b=4;
+int c=7;
+int ecd=3;
+print(ecd+b*c);
